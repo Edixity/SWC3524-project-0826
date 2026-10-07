@@ -427,7 +427,7 @@ public class EmergencyAmbulanceOptimization
         tree.insert(20);
         tree.insert(10);
         tree.insert(30);
-        System.out.print(
+        System.out.println(
             "\nSplay Tree Search (Emergency Case 10 found): "
             + tree.search(10)
         );
